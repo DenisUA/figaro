@@ -1,0 +1,4 @@
+project=figaro
+architecture=container
+test=minitest
+template=erb
